@@ -1,4 +1,4 @@
-<p>👨‍💻 Desenvolvedor de software com foco em Java e Spring Boot, voltado à criação de aplicações robustas e escaláveis. Com sólida base em lógica, resolução de problemas e sistemas complexos.</p>
+<p>👨‍💻 Desenvolvedor de software com foco em Java e Spring Boot, voltado à criação de aplicações robustas e escaláveis. Com sólida base em lógica, resolução de problemas e sistemas complexos, tenho experiência em automação de processos e análise de dados.</p>
 <p>🎓 Cursando Análise e Desenvolvimento de Sistemas</p>
 <p>🔠 <a href="https://cert.efset.org/YsvSab">C1 Advanced English Level</a></p>
 <hr>
